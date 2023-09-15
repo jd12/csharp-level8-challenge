@@ -25,6 +25,27 @@ to open it in VS code (note the `.` to denote the current directory)
 // Paste your Defense of Consolas code in this block
 ```
 
+
+## Make a commit
+
+Add the README file to the staging area 
+
+```
+git add README.md
+```
+
+Make a commit
+
+```
+git commit
+```
+
+Your commit message should be 
+
+```
+feat: Complete Defense of Consolas project
+```
+
 ## Push your code
 
 After you have updated the README run the below command to push your code
